@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta de Presentacion</string>
+    <string name="nombre_inge">Guillermo Serna</string>
+    <string name="ingeniero_en_tc">Ingeniero en Tecnologías Computacionales</string>
+    <string name="correo_inge">38192729@uaz.edu.mx</string>
+    <string name="redes">\@Pasternark</string>
+    <string name="num_telefonico">+52 495 107 50 08</string>
+</resources>
